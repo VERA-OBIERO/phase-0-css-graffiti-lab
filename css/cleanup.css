@@ -1,1 +1,19 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+#wall .parent #tag-4 {
+    display: none;
+  }
+#wall .parent {
+    display: none;
+  }
+  #wall .parent:last-child {
+    display: none;
+}
+#wall .parent:last-child {
+    display: none;
+}
+#wall .parent:last-child {
+    display: none;
+}
